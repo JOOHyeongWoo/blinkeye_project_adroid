@@ -1,0 +1,3 @@
+title=My First Kivy App
+author=JOO
+orientation=landscape /portrait
